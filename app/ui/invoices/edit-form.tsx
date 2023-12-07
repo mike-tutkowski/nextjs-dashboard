@@ -1,4 +1,4 @@
-'use client';
+'use client'; /* This probably doesn't need to be a Client Component. */
 
 import { CustomerField, InvoiceForm } from '@/app/lib/definitions';
 import {
